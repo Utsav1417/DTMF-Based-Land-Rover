@@ -1,2 +1,3 @@
 # DTMF-Based-Land-Rover
-My Diploma Academic Project 
+
+In this project, range limitations of RF is eliminated using DTMF Technology
